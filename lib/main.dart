@@ -29,7 +29,7 @@ class _MyCardState extends State<MyCard> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-    backgroundColor: Colors.deepPurple,
+    backgroundColor: Colors.pinkAccent,
       appBar: AppBar(
 
         title: Text("Shafaqatullah zaheer"),
